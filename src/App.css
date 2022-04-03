@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+#container-canvas{
+text-align: center;
+  width: 700px;
+  background-color: grey;
+  height: 500px;
+  overflow: scroll;
+}
+
+.canvas-container{
+  padding: 10px;
+}
+
+canvas{
+  margin: 10px;
+}
